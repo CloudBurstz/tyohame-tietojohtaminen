@@ -4,7 +4,7 @@
 
 **Do not open a public issue for security or data-handling concerns.**
 
-Report privately to **oskari.vatanen94@gmail.com**. Include:
+Report privately to **devosq@proton.me**. Include:
 
 - a description of the issue and its impact,
 - steps to reproduce (proof of concept if available),
